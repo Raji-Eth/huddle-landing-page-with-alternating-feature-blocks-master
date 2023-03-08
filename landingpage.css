@@ -1,16 +1,28 @@
 .first-section{
-    padding-top: 30px;
+    padding-top: 60px;
     background-color: hsl(193, 100%, 96%);
     background-image: url(/images/bg-hero-desktop.svg);
-    height: 700px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
 }
 .try-button{
     background-color: white;
     padding: 8px 60px;
     border: none;
     border-radius: 20px;
-    box-shadow: 0px 2px 5px grey;
+    box-shadow: 0px 0px 3px hsl(229, 6%, 66%);
 }
 .image{
     width: 12rem;
+}
+.get-started{
+    background-color: hsl(322, 100%, 66%);
+    padding: 12px 60px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+}
+.mockup-img{
+    width: 110%;
 }
