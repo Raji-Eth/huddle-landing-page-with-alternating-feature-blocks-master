@@ -26,3 +26,18 @@
 .mockup-img{
     width: 110%;
 }
+.box-body{
+    width: 65rem;
+    height: 22rem;
+    align-items: center;
+}
+.text-body{
+    width: 420px;
+    font-size: 15px;
+    font-family: 'Open Sans';
+}
+.text-head{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bold;
+}
