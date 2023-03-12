@@ -41,14 +41,25 @@
     font-size: 20px;
     font-weight: bold;
 }
+.cta-card{
+    box-shadow: 0 0 5px #ccc;
+    width: 40rem;
+    height: 15rem;
+    position: relative;
+    top: 6rem;
+    background-color: white;
+    padding-top: 60px;
+    padding-left: 160px;
+}
+
 .footer{
     background-color: hsl(192, 100%, 9%);
     height: 30rem;
+    z-index: -1;
 }
 .footer-items{
     display: flex;
-    gap: 100px;
-    padding-top: 100px;
+    gap: 150px;
 }
 .contacts{
     display: flex;
@@ -61,6 +72,11 @@
 }
 .socials{
     display: flex;
-    gap: 10px;
+    gap: 15px;
     color: white;
+}
+i{
+    border: 1px solid white;
+    padding: 4px 4px;
+    border-radius: 20px;
 }
