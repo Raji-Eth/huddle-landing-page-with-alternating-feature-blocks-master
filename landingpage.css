@@ -55,7 +55,6 @@
 .footer{
     background-color: hsl(192, 100%, 9%);
     height: 30rem;
-    z-index: -1;
 }
 .footer-items{
     display: flex;
