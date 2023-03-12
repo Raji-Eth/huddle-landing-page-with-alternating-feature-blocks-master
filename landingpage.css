@@ -41,3 +41,26 @@
     font-size: 20px;
     font-weight: bold;
 }
+.footer{
+    background-color: hsl(192, 100%, 9%);
+    height: 30rem;
+}
+.footer-items{
+    display: flex;
+    gap: 100px;
+    padding-top: 100px;
+}
+.contacts{
+    display: flex;
+    gap: 15px;
+    color: white;
+    width: 350px;
+}
+.about-sec{
+    color: white;
+}
+.socials{
+    display: flex;
+    gap: 10px;
+    color: white;
+}
