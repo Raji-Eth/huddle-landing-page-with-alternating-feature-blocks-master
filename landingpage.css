@@ -4,7 +4,7 @@
     background-image: url(/images/bg-hero-desktop.svg);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 650px;
 }
 .try-button{
     background-color: white;
@@ -79,3 +79,26 @@ i{
     padding: 4px 4px;
     border-radius: 20px;
 }
+.copy-right{
+    color: white;
+    margin-left: 70%;
+    font-size: 13px;
+}
+/* @media screen and (max-width: 375px) {
+    .first-section{
+        display: flex;
+        flex-wrap: wrap;
+       text-align: center;
+    }
+    .text-head{
+        display: flex;
+        gap: 20px;
+    }
+   .try-button{
+    width: 110%;
+    font-size: 70%;
+   }
+   .image-head{
+    width: 50%;
+   }
+} */
